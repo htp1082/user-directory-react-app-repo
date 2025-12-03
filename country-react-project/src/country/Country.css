@@ -1,0 +1,7 @@
+.card{
+    border: 2px solid green;
+    margin: 10px;
+}
+.visited-country {
+    background-color: green;
+}

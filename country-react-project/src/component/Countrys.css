@@ -1,0 +1,15 @@
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.flags-card{
+    display: flex;
+    margin-left: 10px;
+}
+
+.flag-img{
+    width: 50px;
+    height: 20px;
+    margin-left: 20px;
+}
