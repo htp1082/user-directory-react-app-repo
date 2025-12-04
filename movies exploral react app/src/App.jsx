@@ -3,6 +3,7 @@ import { Suspense } from "react";
 import "./App.css";
 import Movies from "./Movies/movies";
 
+
 function App() {
 
   const moviesFech = fetch("https://api.sampleapis.com/movies/animation")
